@@ -4,8 +4,18 @@ V takom prípade git nevie ako má súbor vyzerať vo finálnej forme a potrebuj
 
 ## Pridaj svoje menu tu:
 <<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+Hello konflikt!
+=======
+<<<<<<< HEAD
+>>>>>>> Stashed changes
 Hello PinkFeather!
 =======
 Hello dalsi pokus MM!
 >>>>>>> master
+<<<<<<< Updated upstream
+=======
+>>>>>>> master
+>>>>>>> Stashed changes
 
