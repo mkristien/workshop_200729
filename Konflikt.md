@@ -3,6 +3,5 @@ Konflikt nastane ak sa súbor v zdialenom úložisku zmenil zatial čo sme ho my
 V takom prípade git nevie ako má súbor vyzerať vo finálnej forme a potrebuje pomoc užívateľky na vyriešenie konfliktu.
 
 ## Pridaj svoje menu tu:
-Hello Katka!
-Hello Yulia!
+Hello aj ty v it!
 
