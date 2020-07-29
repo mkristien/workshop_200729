@@ -3,19 +3,6 @@ Konflikt nastane ak sa súbor v zdialenom úložisku zmenil zatial čo sme ho my
 V takom prípade git nevie ako má súbor vyzerať vo finálnej forme a potrebuje pomoc užívateľky na vyriešenie konfliktu.
 
 ## Pridaj svoje menu tu:
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-Hello konflikt!
-=======
-<<<<<<< HEAD
->>>>>>> Stashed changes
-Hello PinkFeather!
-=======
-Hello dalsi pokus MM!
->>>>>>> master
-<<<<<<< Updated upstream
-=======
->>>>>>> master
->>>>>>> Stashed changes
+Hello Hello!
+
 
