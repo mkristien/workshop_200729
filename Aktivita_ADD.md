@@ -7,13 +7,8 @@
 
 Tu sú odkazy na súbory účastničiek kurzu:
 - Link na súbor účastníčky [Martin](martin.md)
-<<<<<<< Updated upstream
 - Link na súbor účastníčky [Mariamagdalenna](noname.md)
 - Link na súbor účastníčky [y-kazmina](Yulia_K)
-=======
-- Link na súbor účastníčky [Mariamagdalenna](MM_KK.md)
-- Link na súbor účastníčky [y-kazmina](noname.md)
->>>>>>> Stashed changes
 - Link na súbor účastníčky [lenorka](noname.md)
 - Link na súbor účastníčky [Tardis87](noname.md)
 - Link na súbor účastníčky [MonikaHusarova](noname.md)
