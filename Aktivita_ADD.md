@@ -17,7 +17,7 @@ Tu sú odkazy na súbory účastničiek kurzu:
 - Link na súbor účastníčky [bublinka](noname.md)
 - Link na súbor účastníčky [ayanarbe](noname.md)
 - Link na súbor účastníčky [Katarina-Se](Katka)
-- Link na súbor účastníčky [Monika2Pivo](noname.md)
+- Link na súbor účastníčky [Monika2Pivo](Monika.md)
 - Link na súbor účastníčky [Stanka-ai](noname.md)
 - Link na súbor účastníčky [IvanaHalpert](noname.md)
 - Link na súbor účastníčky [PinkFeather](PinkFeather.md)
