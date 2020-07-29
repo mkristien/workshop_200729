@@ -4,4 +4,9 @@ V takom prípade git nevie ako má súbor vyzerať vo finálnej forme a potrebuj
 
 ## Pridaj svoje menu tu:
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello bublinka!
+=======
+Hello Yulia
+
+>>>>>>> master
