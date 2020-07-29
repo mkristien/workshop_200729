@@ -1,3 +1,3 @@
 # PinkFeather
-[PinkFeather](noname.md)
-skusam si pisat a zmenit
+[PinkFeather](PinkFeather.md)
+skusam si pisat vsade svoje meno a zmenit
