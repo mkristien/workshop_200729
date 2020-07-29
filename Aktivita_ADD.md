@@ -14,7 +14,7 @@ Tu sú odkazy na súbory účastničiek kurzu:
 - Link na súbor účastníčky [MonikaHusarova](noname.md)
 - Link na súbor účastníčky [AnkaMMV](AnkaMMC)
 - Link na súbor účastníčky [zorkatrnkova](zorka.md)
-- Link na súbor účastníčky [bublinka](noname.md)
+- Link na súbor účastníčky [bublinka](Veronika.md)
 - Link na súbor účastníčky [ayanarbe](noname.md)
 - Link na súbor účastníčky [Katarina-Se](Katka)
 - Link na súbor účastníčky [Monika2Pivo](Monika.md)
