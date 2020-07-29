@@ -1,0 +1,1 @@
+Volam sa Zorka a ucim sa Git
