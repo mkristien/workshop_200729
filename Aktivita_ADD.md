@@ -21,5 +21,5 @@ Tu sú odkazy na súbory účastničiek kurzu:
 - Link na súbor účastníčky [Stanka-ai](noname.md)
 - Link na súbor účastníčky [IvanaHalpert](noname.md)
 - Link na súbor účastníčky [PinkFeather](PinkFeather.md)
-- Link na súbor účastníčky [EvkaSky](noname.md)
+- Link na súbor účastníčky [EvkaSky](nerozumiem.md)
 - Link na súbor účastníčky [EmaMuchova](ema.md)
