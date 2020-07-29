@@ -8,17 +8,27 @@
 Tu sú odkazy na súbory účastničiek kurzu:
 - Link na súbor účastníčky [Martin](martin.md)
 - Link na súbor účastníčky [Mariamagdalenna](noname.md)
-- Link na súbor účastníčky [y-kazmina](noname.md)
+- Link na súbor účastníčky [y-kazmina](Yulia_K)
 - Link na súbor účastníčky [lenorka](noname.md)
 - Link na súbor účastníčky [Tardis87](noname.md)
 - Link na súbor účastníčky [MonikaHusarova](noname.md)
+<<<<<<< Updated upstream
 - Link na súbor účastníčky [AnkaMMV](noname.md)
+<<<<<<< HEAD
 - Link na súbor účastníčky [bublinka](Veronika.md)
+=======
+- Link na súbor účastníčky [zorkatrnkova](zorka.md)
+=======
+- Link na súbor účastníčky [AnkaMMV](AnkaMMC)
+- Link na súbor účastníčky [zorkatrnkova](noname.md)
+>>>>>>> Stashed changes
+- Link na súbor účastníčky [bublinka](noname.md)
+>>>>>>> master
 - Link na súbor účastníčky [ayanarbe](noname.md)
 - Link na súbor účastníčky [Katarina-Se](Katka)
 - Link na súbor účastníčky [Monika2Pivo](noname.md)
 - Link na súbor účastníčky [Stanka-ai](noname.md)
 - Link na súbor účastníčky [IvanaHalpert](noname.md)
-- Link na súbor účastníčky [PinkFeather](noname.md)
+- Link na súbor účastníčky [PinkFeather](PinkFeather.md)
 - Link na súbor účastníčky [EvkaSky](noname.md)
 - Link na súbor účastníčky [EmaMuchova](ema.md)
