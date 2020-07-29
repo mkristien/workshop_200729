@@ -8,7 +8,7 @@
 Tu sú odkazy na súbory účastničiek kurzu:
 - Link na súbor účastníčky [Martin](martin.md)
 - Link na súbor účastníčky [Mariamagdalenna](noname.md)
-- Link na súbor účastníčky [y-kazmina](noname.md)
+- Link na súbor účastníčky [y-kazmina](Yulia_K)
 - Link na súbor účastníčky [lenorka](noname.md)
 - Link na súbor účastníčky [Tardis87](noname.md)
 - Link na súbor účastníčky [MonikaHusarova](noname.md)
