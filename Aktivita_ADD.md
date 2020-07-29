@@ -13,7 +13,7 @@ Tu sú odkazy na súbory účastničiek kurzu:
 - Link na súbor účastníčky [Tardis87](noname.md)
 - Link na súbor účastníčky [MonikaHusarova](noname.md)
 - Link na súbor účastníčky [AnkaMMV](noname.md)
-- Link na súbor účastníčky [zorkatrnkova](noname.md)
+- Link na súbor účastníčky [zorkatrnkova](zorka.md)
 - Link na súbor účastníčky [bublinka](noname.md)
 - Link na súbor účastníčky [ayanarbe](noname.md)
 - Link na súbor účastníčky [Katarina-Se](noname.md)
